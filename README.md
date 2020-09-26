@@ -1,6 +1,7 @@
 # planets
-ejemplo 1
-Cambio de linea con dos espacios
+# 
+# Bienvenidos
+![Galaxia](galaxia.jpg)
 bash middle.sh <archivo> <lieasHead> <lineasTail>
  
  archivo es el archivo que quieres leer
